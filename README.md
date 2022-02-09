@@ -32,6 +32,8 @@ https://youtu.be/3CxwevoUp3Q
 ## その他
 地元バーチャルユーチューバーコンテンツを計画し，それに向かって開発を行いました．<br>
 立ち絵の作成からLive2Dまで一貫したモデル製作を行いました．
+![計画していたVTuber](/other/VTuber_Image.png) 
+
 > 関連単語
 - VTuber
 - Live2D
