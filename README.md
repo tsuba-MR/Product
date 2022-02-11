@@ -33,7 +33,7 @@ https://youtu.be/3CxwevoUp3Q
 地元バーチャルユーチューバーコンテンツを計画し，それに向かって開発を行いました．<br>
 諸事情により開始できないまま終了してしまいましたが，この間につけた技術を活かして開発に貢献したいと考えております．<br>
 立ち絵の作成からLive2Dまで一貫したモデル製作を行いました．
-![計画していたVTuber](/other/VTuber_Image.png) 
+![計画していたVTuber](/other/Image_vtuber.png) 
 
 > 関連単語
 - VTuber
